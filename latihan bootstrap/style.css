@@ -1,0 +1,61 @@
+body nav .container-fluid {
+  color: rgb(188, 231, 231);
+}
+body nav .container-fluid .pengenal {
+  color: rgb(0, 0, 0);
+}
+body nav .container-fluid a img {
+  width: 50px;
+  height: 50px;
+}
+body nav .container-fluid .menu {
+  text-align: center;
+  justify-content: center;
+}
+body header {
+  background-color: #dc3545;
+}
+body header .row {
+  background-color: #ffffff;
+}
+body header .row .kiri {
+  text-align: center;
+  justify-content: center;
+  padding: 25;
+  margin-top: 25px;
+  margin-bottom: 425px;
+  font-size: 25px;
+}
+body header .row .kanan {
+  width: 25px;
+  height: 25px;
+  margin-top: -125px;
+  size: 50px;
+}
+body footer {
+  background-color: #ffffff;
+  font-size: small;
+}
+body footer .row {
+  background-color: #dc3545;
+}
+body footer .row .kiri {
+  text-align: left;
+  justify-content: center;
+  padding: 25;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  margin-left: 75px;
+  font-size: 25px;
+}
+body footer .row .kanan {
+  width: 25px;
+  height: 25px;
+  text-align: right;
+  justify-content: center;
+  padding: 25;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 75px;
+  font-size: 25px;
+}/*# sourceMappingURL=style.css.map */

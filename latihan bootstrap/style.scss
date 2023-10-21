@@ -1,0 +1,93 @@
+body {
+    
+    nav{
+        .container-fluid{
+            color:rgb(188, 231, 231) ;
+            
+            .pengenal {
+                color:rgb(0, 0, 0);
+            }
+            
+            a {
+               
+                
+                img {
+                    width: 50px;
+                    height: 50px;
+                }
+
+            }
+            .menu{
+                text-align: center;
+                justify-content: center;
+            }
+        }
+    }
+
+    header{
+        background-color:#dc3545 ;
+
+
+        .row {
+            background-color:#ffffff ;
+
+            .kiri{
+                
+                text-align: center;
+                justify-content: center;
+                padding: 25;
+                margin-top: 25px;
+                margin-bottom: 425px;
+                font-size: 25px;
+            }
+            .kanan{
+                
+                width: 25px;
+                height: 25px;
+                margin-top: -125px;
+                size: 50px;
+
+              
+
+            }
+        }
+    }
+    footer {
+
+        background-color:#ffffff;
+
+font-size: small;
+        .row {
+            background-color: #dc3545 ;
+
+            .kiri{
+                
+                text-align: left;
+                justify-content: center;
+                padding: 25;
+                margin-top: 25px;
+                margin-bottom: 50px;
+                margin-left: 75px;
+                font-size: 25px;
+            }
+            .kanan{
+                
+                width: 25px;
+                height: 25px;
+                text-align: right;
+                justify-content: center;
+                padding: 25;
+                margin-top: 25px;
+                margin-bottom: 25px;
+                margin-left: 75px;
+                font-size: 25px;
+            }
+                
+
+              
+
+            }
+        }
+
+    
+}
