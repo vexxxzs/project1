@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/index/lobylogin"
+		},
+		{
+			"path": "../../Desktop/index/jadilogin"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lobylogin"
+	}
+}
